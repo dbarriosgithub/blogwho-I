@@ -1,1 +1,1 @@
-web: gunicorn whoapp.wsgi --log-file -
+web: gunicorn whoblog.wsgi
