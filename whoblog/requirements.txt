@@ -17,6 +17,7 @@ gunicorn==20.1.0
 itsdangerous==2.0.1
 Jinja2==3.0.3
 MarkupSafe==2.0.1
+mysqlclient==2.1.1
 pdfrw==0.4
 Pillow==9.0.0
 pipenv==2022.3.28
