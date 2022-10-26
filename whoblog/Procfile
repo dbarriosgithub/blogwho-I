@@ -1,1 +1,1 @@
-web: gunicorn whois-blog.wsgi
+web: gunicorn whoapp.wsgi
